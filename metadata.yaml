@@ -1,5 +1,5 @@
 _repo: The-Circus-Boys-on-the-Flying-Rings-Or-Making-the-Start-in-the-Sawdust-Life_2474
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,5 +24,6 @@ subjects:
 - !lcc 'PS'
 - !lcc 'PZ'
 - !lcsh 'Circus -- Juvenile fiction'
+- GITenberg
 title: The Circus Boys on the Flying Rings; Or, Making the Start in the Sawdust Life
 url: http://www.gutenberg.org/ebooks/2474
